@@ -63,7 +63,7 @@ Nếu bạn muốn đóng góp vào dự án, vui lòng làm theo các bước s
 
 ## Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, vui lòng liên hệ với chúng tôi qua email: support@example.com.
+Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, vui lòng liên hệ với chúng tôi qua email: phamhonghiep.humg@gmail.com.
 
 ---
 

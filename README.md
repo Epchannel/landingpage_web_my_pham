@@ -5,7 +5,7 @@
 ## Link Demo
 
 Bạn có thể xem trang demo của dự án tại đây:
-[Demo Landing Page Web Mỹ Phẩm](https://epchannel.github.io/web_my_pham)
+[Demo Landing Page Web Mỹ Phẩm]([https://epchannel.github.io/web_my_pham](https://epchannel.github.io/landingpage_web_my_pham/))
 
 ## Ảnh Demo
 
